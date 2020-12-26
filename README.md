@@ -1,1 +1,1 @@
-## Простой модуль панели управления со статистикой распрделения заказаов по статусом
+Simple control panel module with statistics of distribution of orders by status
